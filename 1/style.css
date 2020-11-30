@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cont {
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+}
+
+.ligne {
+    width: 100%;
+    height: 100%;
+}
+
+.case {
+    width: 100%;
+    height: 25%;
+    border: 1px solid black;
+    background-color: yellow;
+}
