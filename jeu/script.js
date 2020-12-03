@@ -1,9 +1,14 @@
+function afficher(child,cont){
+    cont.appendChild(child)
+}
+
 function initMap(taille, couleur){
     let map = document.createElement("div");
     map.id = "map";
     map.style.width = taille[0] + "px";
     map.style.height = taille[1] + "px";
     map.style.backgroundColor = couleur;
+    afficher(map,document.body);
     return map;
 }
 
@@ -39,21 +44,17 @@ function initPlayer(coord,map){
             else if(event.key === "d"){
                 player.coord[0] += 5;
             }
-            player.afficher()
+            player.afficher();
         })
     }
+    afficher(player,map);
     return player;
 }
 
-function afficher(child,cont){
-    cont.appendChild(child)
-}
+
 
 let carte = initMap([400,400], "cyan");
-let player = initPlayer([10,10]);
-
-afficher(carte,document.body)
-afficher(player,carte)
+let player = initPlayer([10,10],carte);
 
 player.afficher();
 player.move();
