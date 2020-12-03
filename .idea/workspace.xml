@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e58fd705-7908-4b04-9e28-85bf08c551ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/anim feu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anim feu/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anim feu/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pluie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pluie/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test Objet/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test Objet/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test Objet/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barre navigation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barre navigation/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/barre navigation/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeu/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jeu/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pluie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulle/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pluie/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulle/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/pluie/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -49,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github exo/Exo-63-Age-du-capitaine" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exo/exo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -69,6 +64,9 @@
       <updated>1606725740735</updated>
       <workItem from="1606725749806" duration="19635000" />
       <workItem from="1606812096084" duration="12838000" />
+      <workItem from="1606939579984" duration="2775000" />
+      <workItem from="1606990149829" duration="40000" />
+      <workItem from="1607000237191" duration="722000" />
     </task>
     <servers />
   </component>
